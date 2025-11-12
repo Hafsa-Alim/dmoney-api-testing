@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Nnilima08/DMoney_Rest_API_Intregration.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = nurshida.akter.nilima@g.bracu.ac.bd
+	name = Nnilima08
